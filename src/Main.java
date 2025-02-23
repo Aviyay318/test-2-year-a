@@ -2,6 +2,27 @@ public class Main {
     public static void main(String[] args) {
     }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
  public static String maxMinor(Family[] families){
         int max = 0;
         String name="";
